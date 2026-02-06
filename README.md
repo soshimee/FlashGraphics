@@ -1,1 +1,2 @@
-the amazing world of scalable vector graphics
+# FlashGraphics
+Generate entirely self-contained Flash graphics within SVG files using Ruffle.
