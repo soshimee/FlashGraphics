@@ -1,0 +1,15 @@
+{
+	"name": "flashgraphics",
+	"module": "index.ts",
+	"type": "module",
+	"private": true,
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"swf-parser": "^0.14.1"
+	}
+}
