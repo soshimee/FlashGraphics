@@ -6,5 +6,3 @@ doc.body.style.overflow = "hidden";
 const script = doc.createElement("script");
 script.textContent = $script;
 doc.head.appendChild(script);
-doc.querySelector("ruffle-player").style.width = "100%";
-doc.querySelector("ruffle-player").style.height = "100%";
