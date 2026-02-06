@@ -1,4 +1,3 @@
-const svg = document.querySelector("svg");
 const iframe = document.querySelector("iframe");
 const doc = iframe.contentDocument;
 doc.body.style.margin = 0;
